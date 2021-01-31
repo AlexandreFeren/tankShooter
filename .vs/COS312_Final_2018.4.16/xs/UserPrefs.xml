@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{1EE5ABD0-D094-5F03-3145-8D0E35E9E7BF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PluggableAI/Scripts/AIAttackAction.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Managers/GameManager.cs" Line="195" Column="1" />
+      <File FileName="Assets/Scripts/PluggableAI/Scripts/AIAttackAction.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="COS312_Final_2018.4.16" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Managers" expanded="True" />
+                <Node name="PluggableAI" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="AIAttackAction.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="20196c0e-1603-4808-b55f-3a1084fac70c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

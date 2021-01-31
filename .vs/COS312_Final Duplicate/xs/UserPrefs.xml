@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{25A26EF6-07F8-1BDB-2B11-CB9AF77FDB29}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Managers/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PluggableAI/Scripts/AIRefillDecision.cs" Line="23" Column="57" />
+      <File FileName="Assets/Scripts/PluggableAI/Scripts/AIRefillAction.cs" />
+      <File FileName="Assets/Scripts/PluggableAI/Scripts/AIPatrolAction.cs" />
+      <File FileName="Assets/Scripts/Triggers/AmmoRefill.cs" Line="37" Column="14" />
+      <File FileName="Assets/Scripts/Triggers/HPRefill.cs" Line="52" Column="1" />
+      <File FileName="Assets/Scripts/Managers/GameManager.cs" Line="19" Column="35" />
+      <File FileName="Assets/Scripts/Tank/TankHealth.cs" />
+      <File FileName="Assets/Scripts/Tank/TankShooting.cs" />
+      <File FileName="Assets/Scripts/Tank/TankMovement.cs" />
+      <File FileName="Assets/Scripts/PluggableAI/Scripts/AIActiveStateDecision.cs" />
+      <File FileName="Assets/Scripts/PluggableAI/Scripts/AILookDecision.cs" />
+      <File FileName="Assets/Scripts/Managers/TankManager.cs" />
+      <File FileName="Assets/Scripts/Shell/ShellExplosion.cs" Line="24" Column="117" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="COS312_Final Duplicate" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PostProcessing" expanded="True">
+                <Node name="Editor" expanded="True">
+                  <Node name="Models" expanded="True" />
+                  <Node name="Utils" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Camera" expanded="True" />
+                <Node name="Managers" expanded="True">
+                  <Node name="GameManager.cs" selected="True" />
+                </Node>
+                <Node name="PluggableAI" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+                <Node name="Shell" expanded="True" />
+                <Node name="Tank" expanded="True" />
+                <Node name="Triggers" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="754fb0ad-42a6-4cb8-8eed-3a44db437799" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

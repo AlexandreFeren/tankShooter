@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{58B1CF0D-62DD-7F0C-2E9D-E4CA93290CED}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Managers/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Tank/TankMovement.cs" Line="87" Column="1" />
+      <File FileName="Assets/Scripts/Tank/TankHealth.cs" Line="60" Column="27" />
+      <File FileName="Assets/Scripts/Shell/ShellExplosion.cs" Line="23" Column="1" />
+      <File FileName="Assets/Scripts/Tank/TankShooting.cs" Line="74" Column="69" />
+      <File FileName="Assets/Scripts/Camera/CameraControl.cs" Line="8" Column="23" />
+      <File FileName="Assets/Scripts/Managers/GameManager.cs" Line="120" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="COS312_Final" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Camera" expanded="True" />
+                <Node name="Managers" expanded="True">
+                  <Node name="GameManager.cs" selected="True" />
+                </Node>
+                <Node name="Shell" expanded="True" />
+                <Node name="Tank" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="66950417-7911-4ff6-8381-4e6c92d4041c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

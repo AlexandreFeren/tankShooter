@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c478ec54a52014e42afe77395513451a, type: 3}
+  m_Name: AIPatrol_Scanner
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: 5910cfba6bbe2440a95b5e59b46cf2de, type: 2}
+  transitions:
+  - decision: {fileID: 11400000, guid: 43e66c35fb7a144f7a1c7791a7c0fc56, type: 2}
+    trueState: {fileID: 11400000, guid: fc6bb36ff96d44bddaf5685d745f7f0e, type: 2}
+    falseState: {fileID: 0}
+  SceneGizmoColor: {r: 1, g: 1, b: 1, a: 1}
