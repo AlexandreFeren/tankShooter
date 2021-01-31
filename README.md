@@ -1,8 +1,8 @@
 # tankShooter
 This game was my final project for COS312: Unity Game Programming, and is based off of a few different unity tutorial series. 
-Base Game Setup
+#### Base Game Setup
 https://www.youtube.com/watch?v=paLLfWd2k5A&list=PLclF8feY8EKLw5Un6Z2Syt2_35qsdpnHt
-Basic AI setup
+#### Basic AI setup
 https://www.youtube.com/watch?v=cHUXh5biQMg&list=PLX2vGYjWbI0ROSj_B0_eir_VkHrEkd4pi
 
 
